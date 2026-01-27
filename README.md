@@ -12,6 +12,32 @@ The platform delivers executive dashboards, customer segmentation, and churn pre
 - Predict customer churn to support targeted retention strategies
 - Provide executive-level insights through interactive dashboards
 
+## Getting Started
+
+### How to Clone This Repository
+
+To get a local copy of this repository, you can clone it using one of the following methods:
+
+**Using HTTPS:**
+```bash
+git clone https://github.com/PariseneniSaiTeja/uk-ecommerce-retention-platform.git
+```
+
+**Using SSH:**
+```bash
+git clone git@github.com:PariseneniSaiTeja/uk-ecommerce-retention-platform.git
+```
+
+**Using GitHub CLI:**
+```bash
+gh repo clone PariseneniSaiTeja/uk-ecommerce-retention-platform
+```
+
+After cloning, navigate to the project directory:
+```bash
+cd uk-ecommerce-retention-platform
+```
+
 ## Tech Stack
 - SQL (BigQuery)
 - Python (pandas, scikit-learn)
